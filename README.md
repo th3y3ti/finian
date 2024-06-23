@@ -1,5 +1,5 @@
 # finian (finian.ai)
-Finian provides near real-time insights to enhance confident decision-making by integrating your personal trading history with up-to-the-minute market data, company financial reports and the latest news, all accessible at your fingertips.
+Finian provides near real-time insights to enhance confident decision-making by integrating your personal trading history with up-to-the-minute market data, company financial reports and the latest news, all accessible at your fingertips. Potentially replaces scanners, backtesters and other traditional tools used by financial traders and investors.
 
 ## Architecture
 GenAI Assistant Front End (Finian): Acts as the main interface and orchestrator, utilizing outputs from the other components to provide integrated insights.
@@ -8,6 +8,7 @@ Examples:
 * If I would have stayed 5 minutes longer in my trades, how much more or less would I have made overall? on Average? Which trades would have been more profitable? Etc.
 * What were the last 3 EPS scores for xyz stock?
 * Using my EV calculation, which companies in the pharmeceutical industry are currently undervalued/overvalued?
+* Using the 
 
 Component 1 - Personal Transaction Data Model: Uses generative AI trained with personal transaction data to answer specific queries about individual trading history.
 
